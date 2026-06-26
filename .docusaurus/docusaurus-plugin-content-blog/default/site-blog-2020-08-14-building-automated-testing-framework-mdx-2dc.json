@@ -1,0 +1,60 @@
+{
+  "permalink": "/zh/blog/building_automated_testing_framework",
+  "editUrl": "https://github.com/chaos-mesh/website/edit/master/blog/2020-08-14-building_automated_testing_framework.mdx",
+  "source": "@site/blog/2020-08-14-building_automated_testing_framework.mdx",
+  "title": "Building an Automated Testing Framework Based on Chaos Mesh and Argo",
+  "description": "TiPocket - Automated Testing Framework",
+  "date": "2020-08-14T00:00:00.000Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "Chaos Mesh",
+      "permalink": "/zh/blog/tags/chaos-mesh"
+    },
+    {
+      "inline": true,
+      "label": "Chaos Engineering",
+      "permalink": "/zh/blog/tags/chaos-engineering"
+    },
+    {
+      "inline": true,
+      "label": "Test Automation",
+      "permalink": "/zh/blog/tags/test-automation"
+    }
+  ],
+  "readingTime": 8.61,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "Chaos Mesh Authors",
+      "title": "All maintainers of Chaos Mesh",
+      "url": "https://github.com/chaos-mesh",
+      "socials": {
+        "x": "https://x.com/chaos_mesh"
+      },
+      "imageURL": "https://avatars.githubusercontent.com/u/59082378?v=4",
+      "key": "chaos-mesh",
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "slug": "/building_automated_testing_framework",
+    "title": "Building an Automated Testing Framework Based on Chaos Mesh and Argo",
+    "authors": "chaos-mesh",
+    "image": "/img/blog/automated_testing_framework.png",
+    "tags": [
+      "Chaos Mesh",
+      "Chaos Engineering",
+      "Test Automation"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "chaos-mesh-action: Integrate Chaos Engineering into Your CI",
+    "permalink": "/zh/blog/chaos-mesh-action-integrate-chaos-engineering-into-your-ci"
+  },
+  "nextItem": {
+    "title": "Chaos Mesh Joins CNCF as a Sandbox Project",
+    "permalink": "/zh/blog/chaos-mesh-join-cncf-sandbox-project"
+  }
+}

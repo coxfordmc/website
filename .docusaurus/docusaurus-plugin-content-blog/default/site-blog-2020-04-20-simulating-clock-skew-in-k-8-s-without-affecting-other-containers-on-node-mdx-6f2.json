@@ -1,0 +1,67 @@
+{
+  "permalink": "/zh/blog/simulating-clock-skew-in-k8s-without-affecting-other-containers-on-node",
+  "editUrl": "https://github.com/chaos-mesh/website/edit/master/blog/2020-04-20-simulating-clock-skew-in-k8s-without-affecting-other-containers-on-node.mdx",
+  "source": "@site/blog/2020-04-20-simulating-clock-skew-in-k8s-without-affecting-other-containers-on-node.mdx",
+  "title": "Simulating Clock Skew in K8s Without Affecting Other Containers on the Node",
+  "description": "Clock synchronization in distributed system",
+  "date": "2020-04-20T00:00:00.000Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "Chaos Mesh",
+      "permalink": "/zh/blog/tags/chaos-mesh"
+    },
+    {
+      "inline": true,
+      "label": "Chaos Engineering",
+      "permalink": "/zh/blog/tags/chaos-engineering"
+    },
+    {
+      "inline": true,
+      "label": "Kubernetes",
+      "permalink": "/zh/blog/tags/kubernetes"
+    },
+    {
+      "inline": true,
+      "label": "Distributed System",
+      "permalink": "/zh/blog/tags/distributed-system"
+    }
+  ],
+  "readingTime": 9.68,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "Cwen Yin",
+      "title": "Maintainer of Chaos Mesh",
+      "url": "https://github.com/cwen0",
+      "email": "cwenyin0@gmail.com",
+      "socials": {
+        "x": "https://x.com/CWenYin"
+      },
+      "imageURL": "https://avatars.githubusercontent.com/u/22956341?v=4",
+      "key": "cwen",
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "slug": "/simulating-clock-skew-in-k8s-without-affecting-other-containers-on-node",
+    "title": "Simulating Clock Skew in K8s Without Affecting Other Containers on the Node",
+    "authors": "cwen",
+    "image": "/img/blog/clock-sync-chaos-engineering-k8s.jpg",
+    "tags": [
+      "Chaos Mesh",
+      "Chaos Engineering",
+      "Kubernetes",
+      "Distributed System"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Chaos Mesh Joins CNCF as a Sandbox Project",
+    "permalink": "/zh/blog/chaos-mesh-join-cncf-sandbox-project"
+  },
+  "nextItem": {
+    "title": "Run Your First Chaos Experiment in 10 Minutes",
+    "permalink": "/zh/blog/run_your_first_chaos_experiment"
+  }
+}

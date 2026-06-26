@@ -1,0 +1,57 @@
+{
+  "permalink": "/zh/blog/develop-a-daily-reporting-system",
+  "editUrl": "https://github.com/chaos-mesh/website/edit/master/blog/2022-01-11-develop-a-daily-reporting-system.mdx",
+  "source": "@site/blog/2022-01-11-develop-a-daily-reporting-system.mdx",
+  "title": "How to Develop a Daily Reporting System to Track Chaos Testing Results",
+  "description": "How to Develop a Daily Reporting System to Track Chaos Testing Results",
+  "date": "2022-01-11T00:00:00.000Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "Chaos Mesh",
+      "permalink": "/zh/blog/tags/chaos-mesh"
+    },
+    {
+      "inline": true,
+      "label": "Chaos Engineering",
+      "permalink": "/zh/blog/tags/chaos-engineering"
+    },
+    {
+      "inline": true,
+      "label": "Use Cases",
+      "permalink": "/zh/blog/tags/use-cases"
+    }
+  ],
+  "readingTime": 7.5,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "Lei Li",
+      "title": "Senior software engineer at Digital China",
+      "url": "https://github.com/lileiaab",
+      "imageURL": "https://avatars.githubusercontent.com/u/88825087?v=4",
+      "key": "leili",
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "slug": "/develop-a-daily-reporting-system",
+    "title": "How to Develop a Daily Reporting System to Track Chaos Testing Results",
+    "authors": "leili",
+    "image": "/img/blog/chaos-mesh-digitalchina-banner.png",
+    "tags": [
+      "Chaos Mesh",
+      "Chaos Engineering",
+      "Use Cases"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Experience as an LFX Mentee for Chaos Mesh",
+    "permalink": "/zh/blog/experience-as-a-chaos-mesh-lfx-mentee"
+  },
+  "nextItem": {
+    "title": "Share your #ChaosMeshStory!",
+    "permalink": "/zh/blog/share-your-chaos-mesh-story"
+  }
+}

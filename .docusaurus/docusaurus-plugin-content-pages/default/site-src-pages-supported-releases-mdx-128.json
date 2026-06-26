@@ -1,0 +1,9 @@
+{
+  "type": "mdx",
+  "permalink": "/zh/supported-releases",
+  "source": "@site/src/pages/supported-releases.mdx",
+  "title": "Supported Releases",
+  "description": "This page lists the status, timeline and policies for currently supported releases.",
+  "frontMatter": {},
+  "unlisted": false
+}

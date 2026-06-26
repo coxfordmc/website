@@ -1,0 +1,26 @@
+{
+  "id": "chaosd-overview",
+  "title": "Chaosd 组件简介",
+  "description": "Chaosd 组件简介",
+  "source": "@site/i18n/zh/docusaurus-plugin-content-docs/version-2.6.7/chaosd-overview.md",
+  "sourceDirName": ".",
+  "slug": "/chaosd-overview",
+  "permalink": "/zh/docs/2.6.7/chaosd-overview",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/chaos-mesh/website/edit/master/i18n/zh/docusaurus-plugin-content-docs/version-2.6.7/chaosd-overview.md",
+  "tags": [],
+  "version": "2.6.7",
+  "frontMatter": {
+    "title": "Chaosd 组件简介"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Simulate Block Device Incidents",
+    "permalink": "/zh/docs/2.6.7/simulate-block-chaos-on-kubernetes"
+  },
+  "next": {
+    "title": "使用 Chaos Mesh 创建物理机故障",
+    "permalink": "/zh/docs/2.6.7/simulate-physical-machine-chaos"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "quick-start",
+  "title": "Quick Start",
+  "description": "This document describes how to start Chaos Mesh quickly in a test or local environment.",
+  "source": "@site/versioned_docs/version-2.6.7/quick-start.mdx",
+  "sourceDirName": ".",
+  "slug": "/quick-start",
+  "permalink": "/docs/2.6.7/quick-start",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/chaos-mesh/website/edit/master/versioned_docs/version-2.6.7/quick-start.mdx",
+  "tags": [],
+  "version": "2.6.7",
+  "frontMatter": {
+    "title": "Quick Start"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Basic Features",
+    "permalink": "/docs/2.6.7/basic-features"
+  },
+  "next": {
+    "title": "Install Chaos Mesh using Helm",
+    "permalink": "/docs/2.6.7/production-installation-using-helm"
+  }
+}

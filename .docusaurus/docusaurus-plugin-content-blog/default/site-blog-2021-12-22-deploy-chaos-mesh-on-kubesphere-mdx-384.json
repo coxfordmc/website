@@ -1,0 +1,61 @@
+{
+  "permalink": "/zh/blog/deploy-chaos-mesh-on-kubesphere",
+  "editUrl": "https://github.com/chaos-mesh/website/edit/master/blog/2021-12-22-deploy-chaos-mesh-on-kubesphere.mdx",
+  "source": "@site/blog/2021-12-22-deploy-chaos-mesh-on-kubesphere.mdx",
+  "title": "Deploy Chaos Mesh on KubeSphere",
+  "description": "Deploy Chaos Mesh on KubeSphere",
+  "date": "2021-12-22T00:00:00.000Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "Chaos Mesh",
+      "permalink": "/zh/blog/tags/chaos-mesh"
+    },
+    {
+      "inline": true,
+      "label": "Chaos Engineering",
+      "permalink": "/zh/blog/tags/chaos-engineering"
+    },
+    {
+      "inline": true,
+      "label": "Community",
+      "permalink": "/zh/blog/tags/community"
+    }
+  ],
+  "readingTime": 3.74,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "Cwen Yin",
+      "title": "Maintainer of Chaos Mesh",
+      "url": "https://github.com/cwen0",
+      "email": "cwenyin0@gmail.com",
+      "socials": {
+        "x": "https://x.com/CWenYin"
+      },
+      "imageURL": "https://avatars.githubusercontent.com/u/22956341?v=4",
+      "key": "cwen",
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "slug": "/deploy-chaos-mesh-on-kubesphere",
+    "title": "Deploy Chaos Mesh on KubeSphere",
+    "authors": "cwen",
+    "image": "/img/blog/chaos-mesh-kubesphere-banner.png",
+    "tags": [
+      "Chaos Mesh",
+      "Chaos Engineering",
+      "Community"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Share your #ChaosMeshStory!",
+    "permalink": "/zh/blog/share-your-chaos-mesh-story"
+  },
+  "nextItem": {
+    "title": "Chaos Mesh + SkyWalking: Better Observability for Chaos Engineering",
+    "permalink": "/zh/blog/better-observability-for-chaos-engineering"
+  }
+}

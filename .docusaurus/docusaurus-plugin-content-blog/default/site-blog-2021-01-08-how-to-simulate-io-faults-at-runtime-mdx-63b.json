@@ -1,0 +1,57 @@
+{
+  "permalink": "/zh/blog/how-to-simulate-io-faults-at-runtime",
+  "editUrl": "https://github.com/chaos-mesh/website/edit/master/blog/2021-01-08-how-to-simulate-io-faults-at-runtime.mdx",
+  "source": "@site/blog/2021-01-08-how-to-simulate-io-faults-at-runtime.mdx",
+  "title": "How to Simulate I/O Faults at Runtime",
+  "description": "Chaos Engineering - How to simulate I/O faults at runtime",
+  "date": "2021-01-08T00:00:00.000Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "Chaos Mesh",
+      "permalink": "/zh/blog/tags/chaos-mesh"
+    },
+    {
+      "inline": true,
+      "label": "Chaos Engineering",
+      "permalink": "/zh/blog/tags/chaos-engineering"
+    },
+    {
+      "inline": true,
+      "label": "Fault Injection",
+      "permalink": "/zh/blog/tags/fault-injection"
+    }
+  ],
+  "readingTime": 9.47,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "Keao Yang",
+      "title": "Maintainer of Chaos Mesh",
+      "url": "https://github.com/YangKeao",
+      "imageURL": "https://avatars.githubusercontent.com/u/5244316?v=4",
+      "key": "keaoyang",
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "slug": "/how-to-simulate-io-faults-at-runtime",
+    "title": "How to Simulate I/O Faults at Runtime",
+    "authors": "keaoyang",
+    "image": "/img/blog/how-to-simulate-io-faults-at-runtime.jpg",
+    "tags": [
+      "Chaos Mesh",
+      "Chaos Engineering",
+      "Fault Injection"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Celebrating One Year of Chaos Mesh: Looking Back and Ahead",
+    "permalink": "/zh/blog/celebrating-one-year-of-chaos-mesh-looking-back-and-ahead"
+  },
+  "nextItem": {
+    "title": "How a Top Game Company Uses Chaos Engineering to Improve Testing",
+    "permalink": "/zh/blog/how-a-top-game-company-uses-chaos-engineering-to-improve-testing"
+  }
+}

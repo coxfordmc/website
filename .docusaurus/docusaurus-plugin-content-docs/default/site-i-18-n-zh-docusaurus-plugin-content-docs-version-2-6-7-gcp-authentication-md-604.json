@@ -1,0 +1,26 @@
+{
+  "id": "gcp-authentication",
+  "title": "GCP OAuth 验证",
+  "description": "如果 Chaos Mesh 集群部署于 Google Cloud Platform，用户将能够通过 Google OAuth 验证登入 Chaos Dashboard。本文档将介绍如何配置和启用这项功能。",
+  "source": "@site/i18n/zh/docusaurus-plugin-content-docs/version-2.6.7/gcp-authentication.md",
+  "sourceDirName": ".",
+  "slug": "/gcp-authentication",
+  "permalink": "/zh/docs/2.6.7/gcp-authentication",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/chaos-mesh/website/edit/master/i18n/zh/docusaurus-plugin-content-docs/version-2.6.7/gcp-authentication.md",
+  "tags": [],
+  "version": "2.6.7",
+  "frontMatter": {
+    "title": "GCP OAuth 验证"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "查找和恢复 Chaosd 实验",
+    "permalink": "/zh/docs/2.6.7/chaosd-search-recover"
+  },
+  "next": {
+    "title": "集成 Chaos Mesh 到 GitHub Actions",
+    "permalink": "/zh/docs/2.6.7/integrate-chaos-mesh-into-github-actions"
+  }
+}

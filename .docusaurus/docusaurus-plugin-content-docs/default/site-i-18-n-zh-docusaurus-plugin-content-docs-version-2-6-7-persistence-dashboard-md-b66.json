@@ -1,0 +1,26 @@
+{
+  "id": "persistence-dashboard",
+  "title": "持久化 Chaos Dashboard 数据",
+  "description": "本文档介绍如何持久化 Chaos Dashboard 数据。",
+  "source": "@site/i18n/zh/docusaurus-plugin-content-docs/version-2.6.7/persistence-dashboard.md",
+  "sourceDirName": ".",
+  "slug": "/persistence-dashboard",
+  "permalink": "/zh/docs/2.6.7/persistence-dashboard",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/chaos-mesh/website/edit/master/i18n/zh/docusaurus-plugin-content-docs/version-2.6.7/persistence-dashboard.md",
+  "tags": [],
+  "version": "2.6.7",
+  "frontMatter": {
+    "title": "持久化 Chaos Dashboard 数据"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Expose Chaos Dashboard with Ingress",
+    "permalink": "/zh/docs/2.6.7/expose-dashboard-with-ingress"
+  },
+  "next": {
+    "title": "卸载 Chaos Mesh",
+    "permalink": "/zh/docs/2.6.7/uninstallation"
+  }
+}

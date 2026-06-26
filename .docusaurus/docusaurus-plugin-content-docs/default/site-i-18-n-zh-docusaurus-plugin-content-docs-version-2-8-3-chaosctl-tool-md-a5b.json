@@ -1,0 +1,26 @@
+{
+  "id": "chaosctl-tool",
+  "title": "Chaosctl",
+  "description": "自 Chaos Mesh 2.8.0 版本起，Chaosctl 已被弃用并从中移除。详情请参阅 #4724。",
+  "source": "@site/i18n/zh/docusaurus-plugin-content-docs/version-2.8.3/chaosctl-tool.md",
+  "sourceDirName": ".",
+  "slug": "/chaosctl-tool",
+  "permalink": "/zh/docs/chaosctl-tool",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/chaos-mesh/website/edit/master/i18n/zh/docusaurus-plugin-content-docs/version-2.8.3/chaosctl-tool.md",
+  "tags": [],
+  "version": "2.8.3",
+  "frontMatter": {
+    "title": "Chaosctl"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "使用 Grafana Data Source 插件进行观测",
+    "permalink": "/zh/docs/use-grafana-data-source"
+  },
+  "next": {
+    "title": "开发指南概览",
+    "permalink": "/zh/docs/developer-guide-overview"
+  }
+}

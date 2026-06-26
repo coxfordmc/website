@@ -1,0 +1,63 @@
+{
+  "permalink": "/zh/blog/how-to-efficiently-stress-test-pod-memory",
+  "editUrl": "https://github.com/chaos-mesh/website/edit/master/blog/2021-07-01-how-to-efficiently-stress-test-pod-memory.mdx",
+  "source": "@site/blog/2021-07-01-how-to-efficiently-stress-test-pod-memory.mdx",
+  "title": "How to efficiently stress test Pod memory",
+  "description": "banner",
+  "date": "2021-07-01T00:00:00.000Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "Chaos Mesh",
+      "permalink": "/zh/blog/tags/chaos-mesh"
+    },
+    {
+      "inline": true,
+      "label": "Chaos Engineering",
+      "permalink": "/zh/blog/tags/chaos-engineering"
+    },
+    {
+      "inline": true,
+      "label": "StressChaos",
+      "permalink": "/zh/blog/tags/stress-chaos"
+    },
+    {
+      "inline": true,
+      "label": "Stress Testing",
+      "permalink": "/zh/blog/tags/stress-testing"
+    }
+  ],
+  "readingTime": 10.91,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "Yinghao Wang",
+      "title": "Contributor of Chaos Mesh",
+      "url": "https://github.com/AsterNighT",
+      "imageURL": "https://avatars.githubusercontent.com/u/22937027?v=4",
+      "key": "yinghaowang",
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "slug": "/how-to-efficiently-stress-test-pod-memory",
+    "title": "How to efficiently stress test Pod memory",
+    "authors": "yinghaowang",
+    "image": "/img/blog/how-to-efficiently-stress-test-pod-memory-banner.jpg",
+    "tags": [
+      "Chaos Mesh",
+      "Chaos Engineering",
+      "StressChaos",
+      "Stress Testing"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Securing tenant namespaces using restrict authorization feature in Chaos Mesh",
+    "permalink": "/zh/blog/securing-tenant-namespaces-using-restrict-authorization-feature"
+  },
+  "nextItem": {
+    "title": "Chaos Mesh Remake: One Step Closer toward Chaos as a Service",
+    "permalink": "/zh/blog/chaos-mesh-remake-one-step-closer-towards-chaos-as-a-service"
+  }
+}

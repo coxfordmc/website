@@ -1,0 +1,59 @@
+{
+  "permalink": "/zh/blog/chaos-mesh-remake-one-step-closer-towards-chaos-as-a-service",
+  "editUrl": "https://github.com/chaos-mesh/website/edit/master/blog/2021-06-25-chaos-mesh-remake-one-step-closer-toward-chaos-as-a-service.mdx",
+  "source": "@site/blog/2021-06-25-chaos-mesh-remake-one-step-closer-toward-chaos-as-a-service.mdx",
+  "title": "Chaos Mesh Remake: One Step Closer toward Chaos as a Service",
+  "description": "Chaos engineering tools",
+  "date": "2021-06-25T00:00:00.000Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "Chaos Mesh",
+      "permalink": "/zh/blog/tags/chaos-mesh"
+    },
+    {
+      "inline": true,
+      "label": "Chaos Engineering",
+      "permalink": "/zh/blog/tags/chaos-engineering"
+    }
+  ],
+  "readingTime": 10.86,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "Xiang Wang",
+      "title": "Committer of Chaos Mesh",
+      "url": "https://github.com/WangXiangUSTC",
+      "imageURL": "https://avatars.githubusercontent.com/u/5793595?v=4",
+      "key": "xiangwang",
+      "page": null
+    },
+    {
+      "name": "Chang Yu",
+      "key": "changyu",
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "slug": "/chaos-mesh-remake-one-step-closer-towards-chaos-as-a-service",
+    "title": "Chaos Mesh Remake: One Step Closer toward Chaos as a Service",
+    "authors": [
+      "xiangwang",
+      "changyu"
+    ],
+    "image": "/img/blog/chaos-engineering-tools-as-a-service.jpeg",
+    "tags": [
+      "Chaos Mesh",
+      "Chaos Engineering"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "How to efficiently stress test Pod memory",
+    "permalink": "/zh/blog/how-to-efficiently-stress-test-pod-memory"
+  },
+  "nextItem": {
+    "title": "From a Newbie in Software Engineering to a Graduated LFX-Mentee",
+    "permalink": "/zh/blog/lfx-mentorship-enriching-awschaos"
+  }
+}

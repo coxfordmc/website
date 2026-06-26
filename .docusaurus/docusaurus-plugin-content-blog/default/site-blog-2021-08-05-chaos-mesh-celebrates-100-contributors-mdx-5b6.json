@@ -1,0 +1,60 @@
+{
+  "permalink": "/zh/blog/chaos-mesh-celebrates-100th-contributor",
+  "editUrl": "https://github.com/chaos-mesh/website/edit/master/blog/2021-08-05-chaos-mesh-celebrates-100-contributors.mdx",
+  "source": "@site/blog/2021-08-05-chaos-mesh-celebrates-100-contributors.mdx",
+  "title": "Chaos Mesh Celebrates 100th Contributor",
+  "description": "Chaos Mesh Celebrates 100th Contributor",
+  "date": "2021-08-05T00:00:00.000Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "Chaos Mesh",
+      "permalink": "/zh/blog/tags/chaos-mesh"
+    },
+    {
+      "inline": true,
+      "label": "Chaos Engineering",
+      "permalink": "/zh/blog/tags/chaos-engineering"
+    },
+    {
+      "inline": true,
+      "label": "Community",
+      "permalink": "/zh/blog/tags/community"
+    }
+  ],
+  "readingTime": 3.86,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "Chaos Mesh Authors",
+      "title": "All maintainers of Chaos Mesh",
+      "url": "https://github.com/chaos-mesh",
+      "socials": {
+        "x": "https://x.com/chaos_mesh"
+      },
+      "imageURL": "https://avatars.githubusercontent.com/u/59082378?v=4",
+      "key": "chaos-mesh",
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "slug": "/chaos-mesh-celebrates-100th-contributor",
+    "title": "Chaos Mesh Celebrates 100th Contributor",
+    "authors": "chaos-mesh",
+    "image": "/img/blog/chaos-mesh-celebrates-100-contributors.png",
+    "tags": [
+      "Chaos Mesh",
+      "Chaos Engineering",
+      "Community"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Chaos Mesh 2.0: To a Chaos Engineering Ecology",
+    "permalink": "/zh/blog/chaos-mesh-2.0-to-a-chaos-engineering-ecology"
+  },
+  "nextItem": {
+    "title": "Chaos Mesh Q&A",
+    "permalink": "/zh/blog/chaos-mesh-q&a"
+  }
+}

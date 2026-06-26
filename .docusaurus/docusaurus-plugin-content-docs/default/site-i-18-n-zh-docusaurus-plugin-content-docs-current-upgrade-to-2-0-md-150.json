@@ -1,0 +1,26 @@
+{
+  "id": "upgrade-to-2.0",
+  "title": "升级至 Chaos Mesh 2.0",
+  "description": "由于 Chaos Mesh 2.0 已发布许久，我们已停止在每个版本发布时上传迁移文件。",
+  "source": "@site/i18n/zh/docusaurus-plugin-content-docs/current/upgrade-to-2.0.md",
+  "sourceDirName": ".",
+  "slug": "/upgrade-to-2.0",
+  "permalink": "/zh/docs/next/upgrade-to-2.0",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/chaos-mesh/website/edit/master/i18n/zh/docusaurus-plugin-content-docs/current/upgrade-to-2.0.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "升级至 Chaos Mesh 2.0"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "常见问题解答 (FAQ)",
+    "permalink": "/zh/docs/next/faqs"
+  },
+  "next": {
+    "title": "从 2.1 升级到 2.2",
+    "permalink": "/zh/docs/next/upgrade-from-2.1-to-2.2"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "permalink": "/zh/blog/Securing-Online-Gaming-Combine-Chaos-Engineering-with-DevOps-Practices",
+  "editUrl": "https://github.com/chaos-mesh/website/edit/master/blog/2021-08-26-securing-online-gaming-combine-chaos-engineering-with-devops-practices.mdx",
+  "source": "@site/blog/2021-08-26-securing-online-gaming-combine-chaos-engineering-with-devops-practices.mdx",
+  "title": "Securing Online Gaming: Combine Chaos Engineering with DevOps Practices",
+  "description": "Securing Online Gaming: Combine Chaos Engineering with DevOps Practices",
+  "date": "2021-08-26T00:00:00.000Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "Chaos Mesh",
+      "permalink": "/zh/blog/tags/chaos-mesh"
+    },
+    {
+      "inline": true,
+      "label": "Chaos Engineering",
+      "permalink": "/zh/blog/tags/chaos-engineering"
+    },
+    {
+      "inline": true,
+      "label": "Use Cases",
+      "permalink": "/zh/blog/tags/use-cases"
+    }
+  ],
+  "readingTime": 7.71,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "Zhaojun Wu",
+      "title": "Senior DevOps Engineer at Tencent Interactive Entertainment Group",
+      "key": "zhaojunwu",
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "slug": "/Securing-Online-Gaming-Combine-Chaos-Engineering-with-DevOps-Practices",
+    "title": "Securing Online Gaming: Combine Chaos Engineering with DevOps Practices",
+    "authors": "zhaojunwu",
+    "image": "/img/blog/chaos-mesh-tencent-ieg.jpeg",
+    "tags": [
+      "Chaos Mesh",
+      "Chaos Engineering",
+      "Use Cases"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "How to run chaos experiments on your physical machine",
+    "permalink": "/zh/blog/run-chaos-experiments-on-physical-machines"
+  },
+  "nextItem": {
+    "title": "How Chaos Mesh Helps Apache APISIX Improve System Stability",
+    "permalink": "/zh/blog/How-Chaos-Mesh-Helps-Apache-APISIX-Improve-System-Stability"
+  }
+}

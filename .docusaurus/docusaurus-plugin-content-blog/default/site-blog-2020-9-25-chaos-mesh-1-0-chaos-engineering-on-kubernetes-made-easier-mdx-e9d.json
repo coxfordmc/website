@@ -1,0 +1,60 @@
+{
+  "permalink": "/zh/blog/chaos-mesh-1.0-chaos-engineering-on-kubernetes-made-easier",
+  "editUrl": "https://github.com/chaos-mesh/website/edit/master/blog/2020-9-25-chaos-mesh-1.0-chaos-engineering-on-kubernetes-made-easier.mdx",
+  "source": "@site/blog/2020-9-25-chaos-mesh-1.0-chaos-engineering-on-kubernetes-made-easier.mdx",
+  "title": "Chaos Mesh 1.0: Chaos Engineering on Kubernetes Made Easier",
+  "description": "Chaos-Mesh-1.0 - Chaos-Engineering-on-Kubernetes-Made-Easier",
+  "date": "2020-09-25T00:00:00.000Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "Chaos Mesh",
+      "permalink": "/zh/blog/tags/chaos-mesh"
+    },
+    {
+      "inline": true,
+      "label": "Chaos Engineering",
+      "permalink": "/zh/blog/tags/chaos-engineering"
+    },
+    {
+      "inline": true,
+      "label": "Announcement",
+      "permalink": "/zh/blog/tags/announcement"
+    }
+  ],
+  "readingTime": 3.41,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "Chaos Mesh Authors",
+      "title": "All maintainers of Chaos Mesh",
+      "url": "https://github.com/chaos-mesh",
+      "socials": {
+        "x": "https://x.com/chaos_mesh"
+      },
+      "imageURL": "https://avatars.githubusercontent.com/u/59082378?v=4",
+      "key": "chaos-mesh",
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "slug": "/chaos-mesh-1.0-chaos-engineering-on-kubernetes-made-easier",
+    "title": "Chaos Mesh 1.0: Chaos Engineering on Kubernetes Made Easier",
+    "authors": "chaos-mesh",
+    "image": "/img/blog/chaos-mesh-1.0.png",
+    "tags": [
+      "Chaos Mesh",
+      "Chaos Engineering",
+      "Announcement"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Chaos Mesh X Hacktoberfest 2020 - An Invitation to Open Source",
+    "permalink": "/zh/blog/chaos-mesh-x-hacktoberfest-2020"
+  },
+  "nextItem": {
+    "title": "chaos-mesh-action: Integrate Chaos Engineering into Your CI",
+    "permalink": "/zh/blog/chaos-mesh-action-integrate-chaos-engineering-into-your-ci"
+  }
+}

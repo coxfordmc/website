@@ -1,0 +1,2270 @@
+{
+  "/zh/blog/-d1f": {
+    "__comp": "a6aa9e1f",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "8263c33e"
+      },
+      {
+        "content": "6cd77345"
+      },
+      {
+        "content": "9e72a3e2"
+      },
+      {
+        "content": "a65c12eb"
+      },
+      {
+        "content": "9b2c86cd"
+      },
+      {
+        "content": "29db1ab5"
+      },
+      {
+        "content": "f3b4bd3a"
+      },
+      {
+        "content": "29ac3c0d"
+      },
+      {
+        "content": "35635817"
+      },
+      {
+        "content": "e1854d90"
+      }
+    ],
+    "__props": "1669b262"
+  },
+  "/zh/blog/archive/-d8a": {
+    "__comp": "9e4087bc",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "__props": "73510bc3"
+  },
+  "/zh/blog/authors/-2db": {
+    "__comp": "621db11d",
+    "__context": {
+      "data": {
+        "blogMetadata": "acecf23e"
+      },
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "__props": "28bc6f10"
+  },
+  "/zh/blog/better-observability-for-chaos-engineering/-6d9": {
+    "__comp": "ccc49370",
+    "__context": {
+      "data": {
+        "blogMetadata": "acecf23e"
+      },
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "content": "bf230469"
+  },
+  "/zh/blog/building_automated_testing_framework/-851": {
+    "__comp": "ccc49370",
+    "__context": {
+      "data": {
+        "blogMetadata": "acecf23e"
+      },
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "content": "2dcc7ff6"
+  },
+  "/zh/blog/celebrating-one-year-of-chaos-mesh-looking-back-and-ahead/-287": {
+    "__comp": "ccc49370",
+    "__context": {
+      "data": {
+        "blogMetadata": "acecf23e"
+      },
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "content": "d0809dfd"
+  },
+  "/zh/blog/chaos_mesh_your_chaos_engineering_solution/-83f": {
+    "__comp": "ccc49370",
+    "__context": {
+      "data": {
+        "blogMetadata": "acecf23e"
+      },
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "content": "9d6f5f30"
+  },
+  "/zh/blog/chaos-engineering-breaking-things-intentionally/-65f": {
+    "__comp": "ccc49370",
+    "__context": {
+      "data": {
+        "blogMetadata": "acecf23e"
+      },
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "content": "95f30439"
+  },
+  "/zh/blog/chaos-mesh-1.0-chaos-engineering-on-kubernetes-made-easier/-184": {
+    "__comp": "ccc49370",
+    "__context": {
+      "data": {
+        "blogMetadata": "acecf23e"
+      },
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "content": "e9d91587"
+  },
+  "/zh/blog/chaos-mesh-2.0-to-a-chaos-engineering-ecology/-00b": {
+    "__comp": "ccc49370",
+    "__context": {
+      "data": {
+        "blogMetadata": "acecf23e"
+      },
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "content": "4b7cc758"
+  },
+  "/zh/blog/chaos-mesh-action-integrate-chaos-engineering-into-your-ci/-d1f": {
+    "__comp": "ccc49370",
+    "__context": {
+      "data": {
+        "blogMetadata": "acecf23e"
+      },
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "content": "063f5b38"
+  },
+  "/zh/blog/chaos-mesh-celebrates-100th-contributor/-e29": {
+    "__comp": "ccc49370",
+    "__context": {
+      "data": {
+        "blogMetadata": "acecf23e"
+      },
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "content": "5b6f31cb"
+  },
+  "/zh/blog/chaos-mesh-hacktoberfest-2021/-ece": {
+    "__comp": "ccc49370",
+    "__context": {
+      "data": {
+        "blogMetadata": "acecf23e"
+      },
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "content": "c1305386"
+  },
+  "/zh/blog/chaos-mesh-join-cncf-sandbox-project/-2d2": {
+    "__comp": "ccc49370",
+    "__context": {
+      "data": {
+        "blogMetadata": "acecf23e"
+      },
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "content": "cfd3a782"
+  },
+  "/zh/blog/chaos-mesh-q&a/-c8f": {
+    "__comp": "ccc49370",
+    "__context": {
+      "data": {
+        "blogMetadata": "acecf23e"
+      },
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "content": "4d451930"
+  },
+  "/zh/blog/chaos-mesh-qa-at-kubecon-eu-2022/-3c0": {
+    "__comp": "ccc49370",
+    "__context": {
+      "data": {
+        "blogMetadata": "acecf23e"
+      },
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "content": "99a332f6"
+  },
+  "/zh/blog/chaos-mesh-remake-one-step-closer-towards-chaos-as-a-service/-21d": {
+    "__comp": "ccc49370",
+    "__context": {
+      "data": {
+        "blogMetadata": "acecf23e"
+      },
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "content": "f57a4611"
+  },
+  "/zh/blog/chaos-mesh-x-hacktoberfest-2020/-9cf": {
+    "__comp": "ccc49370",
+    "__context": {
+      "data": {
+        "blogMetadata": "acecf23e"
+      },
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "content": "b5ad826e"
+  },
+  "/zh/blog/deploy-chaos-mesh-on-kubesphere/-7b5": {
+    "__comp": "ccc49370",
+    "__context": {
+      "data": {
+        "blogMetadata": "acecf23e"
+      },
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "content": "384b2f4e"
+  },
+  "/zh/blog/develop-a-daily-reporting-system/-2f1": {
+    "__comp": "ccc49370",
+    "__context": {
+      "data": {
+        "blogMetadata": "acecf23e"
+      },
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "content": "5ed2902a"
+  },
+  "/zh/blog/experience-as-a-chaos-mesh-lfx-mentee/-543": {
+    "__comp": "ccc49370",
+    "__context": {
+      "data": {
+        "blogMetadata": "acecf23e"
+      },
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "content": "89b890eb"
+  },
+  "/zh/blog/how-a-top-game-company-uses-chaos-engineering-to-improve-testing/-146": {
+    "__comp": "ccc49370",
+    "__context": {
+      "data": {
+        "blogMetadata": "acecf23e"
+      },
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "content": "7dc6de38"
+  },
+  "/zh/blog/How-Chaos-Mesh-Helps-Apache-APISIX-Improve-System-Stability/-b2d": {
+    "__comp": "ccc49370",
+    "__context": {
+      "data": {
+        "blogMetadata": "acecf23e"
+      },
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "content": "c26e57c7"
+  },
+  "/zh/blog/how-to-efficiently-stress-test-pod-memory/-96a": {
+    "__comp": "ccc49370",
+    "__context": {
+      "data": {
+        "blogMetadata": "acecf23e"
+      },
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "content": "6748c6ec"
+  },
+  "/zh/blog/how-to-simulate-io-faults-at-runtime/-ae4": {
+    "__comp": "ccc49370",
+    "__context": {
+      "data": {
+        "blogMetadata": "acecf23e"
+      },
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "content": "63b0dd6b"
+  },
+  "/zh/blog/implement-chaos-engineering-in-k8s/-ca9": {
+    "__comp": "ccc49370",
+    "__context": {
+      "data": {
+        "blogMetadata": "acecf23e"
+      },
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "content": "4dd57e85"
+  },
+  "/zh/blog/lfx-mentorship-enriching-awschaos/-fa2": {
+    "__comp": "ccc49370",
+    "__context": {
+      "data": {
+        "blogMetadata": "acecf23e"
+      },
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "content": "a329d6a7"
+  },
+  "/zh/blog/page/2/-c5c": {
+    "__comp": "a6aa9e1f",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "4d7b0e3b"
+      },
+      {
+        "content": "b50c43ce"
+      },
+      {
+        "content": "4ea181f9"
+      },
+      {
+        "content": "f3197915"
+      },
+      {
+        "content": "3dfa2e63"
+      },
+      {
+        "content": "42b10b83"
+      },
+      {
+        "content": "b181db95"
+      },
+      {
+        "content": "a0ef92ed"
+      },
+      {
+        "content": "ec68003d"
+      },
+      {
+        "content": "9dfe34cd"
+      }
+    ],
+    "__props": "0ec70a5b"
+  },
+  "/zh/blog/page/3/-331": {
+    "__comp": "a6aa9e1f",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "85c58f14"
+      },
+      {
+        "content": "06766fdd"
+      },
+      {
+        "content": "63745bd4"
+      },
+      {
+        "content": "450375f8"
+      },
+      {
+        "content": "855c413e"
+      },
+      {
+        "content": "46513654"
+      },
+      {
+        "content": "a6365699"
+      },
+      {
+        "content": "9a491008"
+      },
+      {
+        "content": "9b7bebbb"
+      },
+      {
+        "content": "b4a8f47a"
+      }
+    ],
+    "__props": "39a85c3e"
+  },
+  "/zh/blog/run_your_first_chaos_experiment/-6b1": {
+    "__comp": "ccc49370",
+    "__context": {
+      "data": {
+        "blogMetadata": "acecf23e"
+      },
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "content": "5fcff27d"
+  },
+  "/zh/blog/run-chaos-experiments-on-physical-machines/-da6": {
+    "__comp": "ccc49370",
+    "__context": {
+      "data": {
+        "blogMetadata": "acecf23e"
+      },
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "content": "3085b61e"
+  },
+  "/zh/blog/Securing-Online-Gaming-Combine-Chaos-Engineering-with-DevOps-Practices/-e1c": {
+    "__comp": "ccc49370",
+    "__context": {
+      "data": {
+        "blogMetadata": "acecf23e"
+      },
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "content": "b3af7980"
+  },
+  "/zh/blog/securing-tenant-namespaces-using-restrict-authorization-feature/-838": {
+    "__comp": "ccc49370",
+    "__context": {
+      "data": {
+        "blogMetadata": "acecf23e"
+      },
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "content": "5265219f"
+  },
+  "/zh/blog/share-your-chaos-mesh-story/-d34": {
+    "__comp": "ccc49370",
+    "__context": {
+      "data": {
+        "blogMetadata": "acecf23e"
+      },
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "content": "a1142136"
+  },
+  "/zh/blog/simulating-clock-skew-in-k8s-without-affecting-other-containers-on-node/-df6": {
+    "__comp": "ccc49370",
+    "__context": {
+      "data": {
+        "blogMetadata": "acecf23e"
+      },
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "content": "6f29bc53"
+  },
+  "/zh/blog/tags/-399": {
+    "__comp": "01a85c17",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "__props": "1b47364f"
+  },
+  "/zh/blog/tags/announcement/-4c0": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "b50c43ce"
+      },
+      {
+        "content": "450375f8"
+      }
+    ],
+    "__props": "09366dc7"
+  },
+  "/zh/blog/tags/aws-chaos/-4b8": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "a0ef92ed"
+      }
+    ],
+    "__props": "3e92f3fc"
+  },
+  "/zh/blog/tags/chaos-engineering/-84b": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "8263c33e"
+      },
+      {
+        "content": "6cd77345"
+      },
+      {
+        "content": "9e72a3e2"
+      },
+      {
+        "content": "9b2c86cd"
+      },
+      {
+        "content": "29db1ab5"
+      },
+      {
+        "content": "f3b4bd3a"
+      },
+      {
+        "content": "29ac3c0d"
+      },
+      {
+        "content": "35635817"
+      },
+      {
+        "content": "e1854d90"
+      },
+      {
+        "content": "4d7b0e3b"
+      }
+    ],
+    "__props": "edecbdf6"
+  },
+  "/zh/blog/tags/chaos-engineering/page/2/-b71": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "b50c43ce"
+      },
+      {
+        "content": "4ea181f9"
+      },
+      {
+        "content": "f3197915"
+      },
+      {
+        "content": "3dfa2e63"
+      },
+      {
+        "content": "42b10b83"
+      },
+      {
+        "content": "b181db95"
+      },
+      {
+        "content": "a0ef92ed"
+      },
+      {
+        "content": "ec68003d"
+      },
+      {
+        "content": "9dfe34cd"
+      },
+      {
+        "content": "85c58f14"
+      }
+    ],
+    "__props": "76d54809"
+  },
+  "/zh/blog/tags/chaos-engineering/page/3/-930": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "06766fdd"
+      },
+      {
+        "content": "63745bd4"
+      },
+      {
+        "content": "450375f8"
+      },
+      {
+        "content": "855c413e"
+      },
+      {
+        "content": "46513654"
+      },
+      {
+        "content": "a6365699"
+      },
+      {
+        "content": "9a491008"
+      },
+      {
+        "content": "9b7bebbb"
+      },
+      {
+        "content": "b4a8f47a"
+      }
+    ],
+    "__props": "9adfbcce"
+  },
+  "/zh/blog/tags/chaos-mesh/-76d": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "8263c33e"
+      },
+      {
+        "content": "6cd77345"
+      },
+      {
+        "content": "9e72a3e2"
+      },
+      {
+        "content": "a65c12eb"
+      },
+      {
+        "content": "9b2c86cd"
+      },
+      {
+        "content": "29db1ab5"
+      },
+      {
+        "content": "f3b4bd3a"
+      },
+      {
+        "content": "29ac3c0d"
+      },
+      {
+        "content": "35635817"
+      },
+      {
+        "content": "e1854d90"
+      }
+    ],
+    "__props": "2349ca2d"
+  },
+  "/zh/blog/tags/chaos-mesh/page/2/-ad1": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "4d7b0e3b"
+      },
+      {
+        "content": "b50c43ce"
+      },
+      {
+        "content": "4ea181f9"
+      },
+      {
+        "content": "f3197915"
+      },
+      {
+        "content": "3dfa2e63"
+      },
+      {
+        "content": "42b10b83"
+      },
+      {
+        "content": "b181db95"
+      },
+      {
+        "content": "a0ef92ed"
+      },
+      {
+        "content": "ec68003d"
+      },
+      {
+        "content": "9dfe34cd"
+      }
+    ],
+    "__props": "bd3c50d3"
+  },
+  "/zh/blog/tags/chaos-mesh/page/3/-e97": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "85c58f14"
+      },
+      {
+        "content": "06766fdd"
+      },
+      {
+        "content": "63745bd4"
+      },
+      {
+        "content": "450375f8"
+      },
+      {
+        "content": "855c413e"
+      },
+      {
+        "content": "46513654"
+      },
+      {
+        "content": "a6365699"
+      },
+      {
+        "content": "9a491008"
+      },
+      {
+        "content": "9b7bebbb"
+      },
+      {
+        "content": "b4a8f47a"
+      }
+    ],
+    "__props": "54b811c9"
+  },
+  "/zh/blog/tags/chaosd/-f49": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "35635817"
+      }
+    ],
+    "__props": "a7aaa518"
+  },
+  "/zh/blog/tags/ci/-b6e": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "855c413e"
+      }
+    ],
+    "__props": "d891c7f7"
+  },
+  "/zh/blog/tags/cloud-native-con/-7a0": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "8263c33e"
+      }
+    ],
+    "__props": "d1a8ba1c"
+  },
+  "/zh/blog/tags/cloud-native/-f55": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "a6365699"
+      }
+    ],
+    "__props": "30153cf3"
+  },
+  "/zh/blog/tags/cncf/-7e0": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "a6365699"
+      }
+    ],
+    "__props": "727bcc66"
+  },
+  "/zh/blog/tags/community/-945": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "a65c12eb"
+      },
+      {
+        "content": "9b2c86cd"
+      },
+      {
+        "content": "4ea181f9"
+      }
+    ],
+    "__props": "6071ed52"
+  },
+  "/zh/blog/tags/distributed-system/-9be": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "9a491008"
+      }
+    ],
+    "__props": "e2617add"
+  },
+  "/zh/blog/tags/fault-injection/-3b7": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "9dfe34cd"
+      }
+    ],
+    "__props": "cc399d13"
+  },
+  "/zh/blog/tags/git-hub-actions/-56a": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "855c413e"
+      }
+    ],
+    "__props": "6af2c45e"
+  },
+  "/zh/blog/tags/kube-con/-6b8": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "8263c33e"
+      }
+    ],
+    "__props": "372b8bea"
+  },
+  "/zh/blog/tags/kubernetes/-db1": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "a6365699"
+      },
+      {
+        "content": "9a491008"
+      },
+      {
+        "content": "9b7bebbb"
+      },
+      {
+        "content": "b4a8f47a"
+      }
+    ],
+    "__props": "f01b286f"
+  },
+  "/zh/blog/tags/lfx-mentorship/-9d1": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "6cd77345"
+      },
+      {
+        "content": "a0ef92ed"
+      }
+    ],
+    "__props": "0e433710"
+  },
+  "/zh/blog/tags/monitoring-metrics/-b2d": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "6cd77345"
+      }
+    ],
+    "__props": "536a7410"
+  },
+  "/zh/blog/tags/open-source/-248": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "29ac3c0d"
+      },
+      {
+        "content": "06766fdd"
+      },
+      {
+        "content": "63745bd4"
+      }
+    ],
+    "__props": "db7a2d93"
+  },
+  "/zh/blog/tags/stress-chaos/-4e4": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "42b10b83"
+      }
+    ],
+    "__props": "6dcc6d1e"
+  },
+  "/zh/blog/tags/stress-testing/-801": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "42b10b83"
+      }
+    ],
+    "__props": "6c9138b5"
+  },
+  "/zh/blog/tags/test-automation/-8b1": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "46513654"
+      }
+    ],
+    "__props": "16b0581f"
+  },
+  "/zh/blog/tags/tutorials/-023": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "29db1ab5"
+      }
+    ],
+    "__props": "a06b9044"
+  },
+  "/zh/blog/tags/use-cases/-395": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "9e72a3e2"
+      },
+      {
+        "content": "e1854d90"
+      }
+    ],
+    "__props": "27301116"
+  },
+  "/zh/contact/-102": {
+    "__comp": "83e9e333",
+    "__context": {
+      "plugin": "a7456010"
+    },
+    "config": "5e9f5e1a"
+  },
+  "/zh/search/-0db": {
+    "__comp": "1a4e3797",
+    "__context": {
+      "plugin": "c141421f"
+    }
+  },
+  "/zh/supported-releases/-9c7": {
+    "__comp": "1f391b9e",
+    "__context": {
+      "plugin": "a7456010"
+    },
+    "content": "128cfb6c"
+  },
+  "/zh/versions/-5b7": {
+    "__comp": "18b93cb3",
+    "__context": {
+      "plugin": "a7456010"
+    },
+    "config": "5e9f5e1a"
+  },
+  "/zh/docs/-09a": {
+    "__comp": "5e95c892",
+    "__context": {
+      "plugin": "aba21aa0"
+    }
+  },
+  "/zh/docs/2.6.7/-cd8": {
+    "__comp": "a7bd4aaa",
+    "__props": "66d2adf0"
+  },
+  "/zh/docs/2.6.7/-0ff": {
+    "__comp": "a94703ab"
+  },
+  "/zh/docs/2.6.7/-c34": {
+    "__comp": "17896441",
+    "content": "dc15585e"
+  },
+  "/zh/docs/2.6.7/add-new-chaos-experiment-type/-561": {
+    "__comp": "17896441",
+    "content": "fe2ec9cb"
+  },
+  "/zh/docs/2.6.7/basic-features/-9ff": {
+    "__comp": "17896441",
+    "content": "64005f04"
+  },
+  "/zh/docs/2.6.7/chaos-engineering-principles/-c2e": {
+    "__comp": "17896441",
+    "content": "2032f241"
+  },
+  "/zh/docs/2.6.7/chaosctl-tool/-ec1": {
+    "__comp": "17896441",
+    "content": "7cb643df"
+  },
+  "/zh/docs/2.6.7/chaosd-overview/-bc8": {
+    "__comp": "17896441",
+    "content": "14cd6433"
+  },
+  "/zh/docs/2.6.7/chaosd-search-recover/-1a4": {
+    "__comp": "17896441",
+    "content": "607a3cc5"
+  },
+  "/zh/docs/2.6.7/check-workflow-status/-cf0": {
+    "__comp": "17896441",
+    "content": "e871772b"
+  },
+  "/zh/docs/2.6.7/clean-up-chaos-experiments/-487": {
+    "__comp": "17896441",
+    "content": "51c154f7"
+  },
+  "/zh/docs/2.6.7/configure-development-environment/-031": {
+    "__comp": "17896441",
+    "content": "04658835"
+  },
+  "/zh/docs/2.6.7/configure-enabled-namespace/-636": {
+    "__comp": "17896441",
+    "content": "5416ea48"
+  },
+  "/zh/docs/2.6.7/create-chaos-mesh-workflow/-670": {
+    "__comp": "17896441",
+    "content": "a903d547"
+  },
+  "/zh/docs/2.6.7/define-chaos-experiment-scope/-94f": {
+    "__comp": "17896441",
+    "content": "92bc7653"
+  },
+  "/zh/docs/2.6.7/define-scheduling-rules/-e63": {
+    "__comp": "17896441",
+    "content": "1339eaf4"
+  },
+  "/zh/docs/2.6.7/define-workflow-scheduling-rules/-4fd": {
+    "__comp": "17896441",
+    "content": "1ad5a557"
+  },
+  "/zh/docs/2.6.7/developer-guide-overview/-70e": {
+    "__comp": "17896441",
+    "content": "d9cc924d"
+  },
+  "/zh/docs/2.6.7/expose-dashboard-with-ingress/-113": {
+    "__comp": "17896441",
+    "content": "494bb97e"
+  },
+  "/zh/docs/2.6.7/extend-chaos-daemon-interface/-d25": {
+    "__comp": "17896441",
+    "content": "7b24cea8"
+  },
+  "/zh/docs/2.6.7/extend-chaosd/-180": {
+    "__comp": "17896441",
+    "content": "c097efca"
+  },
+  "/zh/docs/2.6.7/faqs/-dd7": {
+    "__comp": "17896441",
+    "content": "9ed75b44"
+  },
+  "/zh/docs/2.6.7/gcp-authentication/-696": {
+    "__comp": "17896441",
+    "content": "604baa7c"
+  },
+  "/zh/docs/2.6.7/glossary/-efe": {
+    "__comp": "17896441",
+    "content": "fe560ee3"
+  },
+  "/zh/docs/2.6.7/go-client/-2e5": {
+    "__comp": "17896441",
+    "content": "a97b617c"
+  },
+  "/zh/docs/2.6.7/inspect-chaos-experiments/-450": {
+    "__comp": "17896441",
+    "content": "be379aff"
+  },
+  "/zh/docs/2.6.7/integrate-chaos-mesh-into-github-actions/-80c": {
+    "__comp": "17896441",
+    "content": "5680fbd4"
+  },
+  "/zh/docs/2.6.7/java-client/-5ec": {
+    "__comp": "17896441",
+    "content": "d34407e3"
+  },
+  "/zh/docs/2.6.7/manage-user-permissions/-730": {
+    "__comp": "17896441",
+    "content": "05b53eb1"
+  },
+  "/zh/docs/2.6.7/multi-data-center-scenario/-1e1": {
+    "__comp": "17896441",
+    "content": "0fdf8f54"
+  },
+  "/zh/docs/2.6.7/offline-installation/-01c": {
+    "__comp": "17896441",
+    "content": "9e9def1f"
+  },
+  "/zh/docs/2.6.7/persistence-dashboard/-36e": {
+    "__comp": "17896441",
+    "content": "b6609f99"
+  },
+  "/zh/docs/2.6.7/production-installation-using-helm/-d71": {
+    "__comp": "17896441",
+    "content": "3801a820"
+  },
+  "/zh/docs/2.6.7/python-client/-45a": {
+    "__comp": "17896441",
+    "content": "aed2e522"
+  },
+  "/zh/docs/2.6.7/quick-start/-aa8": {
+    "__comp": "17896441",
+    "content": "28d819d8"
+  },
+  "/zh/docs/2.6.7/release-0.0.8/-a45": {
+    "__comp": "17896441",
+    "content": "aecce566"
+  },
+  "/zh/docs/2.6.7/release-0.0.9/-ccb": {
+    "__comp": "17896441",
+    "content": "83cd0d49"
+  },
+  "/zh/docs/2.6.7/release-1.0.0/-6a8": {
+    "__comp": "17896441",
+    "content": "0941f52b"
+  },
+  "/zh/docs/2.6.7/release-2.0.0/-d28": {
+    "__comp": "17896441",
+    "content": "11818042"
+  },
+  "/zh/docs/2.6.7/release-2.5-tracking/-555": {
+    "__comp": "17896441",
+    "content": "91481df1"
+  },
+  "/zh/docs/2.6.7/release-cycle/-cf5": {
+    "__comp": "17896441",
+    "content": "ff6b82e8"
+  },
+  "/zh/docs/2.6.7/remote-cluster-management/-5ea": {
+    "__comp": "17896441",
+    "content": "bd8a97f8"
+  },
+  "/zh/docs/2.6.7/run-a-chaos-experiment/-b41": {
+    "__comp": "17896441",
+    "content": "a33f2138"
+  },
+  "/zh/docs/2.6.7/run-serial-or-parallel-experiments/-c6d": {
+    "__comp": "17896441",
+    "content": "45be6b9e"
+  },
+  "/zh/docs/2.6.7/rust-client/-12e": {
+    "__comp": "17896441",
+    "content": "8a595297"
+  },
+  "/zh/docs/2.6.7/send-http-request-on-workflow/-2ae": {
+    "__comp": "17896441",
+    "content": "2bfaf1e0"
+  },
+  "/zh/docs/2.6.7/simulate-aws-chaos/-507": {
+    "__comp": "17896441",
+    "content": "3a7e5c20"
+  },
+  "/zh/docs/2.6.7/simulate-azure-chaos/-69f": {
+    "__comp": "17896441",
+    "content": "1898a7bf"
+  },
+  "/zh/docs/2.6.7/simulate-block-chaos-on-kubernetes/-76c": {
+    "__comp": "17896441",
+    "content": "123520ae"
+  },
+  "/zh/docs/2.6.7/simulate-disk-pressure-in-physical-nodes/-cbe": {
+    "__comp": "17896441",
+    "content": "09905333"
+  },
+  "/zh/docs/2.6.7/simulate-dns-chaos-on-kubernetes/-74e": {
+    "__comp": "17896441",
+    "content": "e13866a2"
+  },
+  "/zh/docs/2.6.7/simulate-file-chaos-in-physical-nodes/-c7d": {
+    "__comp": "17896441",
+    "content": "e682d145"
+  },
+  "/zh/docs/2.6.7/simulate-gcp-chaos/-915": {
+    "__comp": "17896441",
+    "content": "97297731"
+  },
+  "/zh/docs/2.6.7/simulate-heavy-stress-in-physical-nodes/-cde": {
+    "__comp": "17896441",
+    "content": "b060b9a8"
+  },
+  "/zh/docs/2.6.7/simulate-heavy-stress-on-kubernetes/-27d": {
+    "__comp": "17896441",
+    "content": "d138fa1a"
+  },
+  "/zh/docs/2.6.7/simulate-host-console-in-physical-nodes/-bf2": {
+    "__comp": "17896441",
+    "content": "5e9949be"
+  },
+  "/zh/docs/2.6.7/simulate-http-chaos-on-kubernetes/-42b": {
+    "__comp": "17896441",
+    "content": "cfba776b"
+  },
+  "/zh/docs/2.6.7/simulate-io-chaos-on-kubernetes/-d5d": {
+    "__comp": "17896441",
+    "content": "3e710dc5"
+  },
+  "/zh/docs/2.6.7/simulate-jvm-application-chaos-in-physical-nodes/-93b": {
+    "__comp": "17896441",
+    "content": "b518d269"
+  },
+  "/zh/docs/2.6.7/simulate-jvm-application-chaos/-078": {
+    "__comp": "17896441",
+    "content": "7ff1ba0d"
+  },
+  "/zh/docs/2.6.7/simulate-kernel-chaos-on-kubernetes/-858": {
+    "__comp": "17896441",
+    "content": "9644b0e8"
+  },
+  "/zh/docs/2.6.7/simulate-network-chaos-in-physical-nodes/-1c9": {
+    "__comp": "17896441",
+    "content": "90c46c49"
+  },
+  "/zh/docs/2.6.7/simulate-network-chaos-on-kubernetes/-6da": {
+    "__comp": "17896441",
+    "content": "fd568c6d"
+  },
+  "/zh/docs/2.6.7/simulate-physical-machine-chaos/-b70": {
+    "__comp": "17896441",
+    "content": "02beecfc"
+  },
+  "/zh/docs/2.6.7/simulate-pod-chaos-on-kubernetes/-bc3": {
+    "__comp": "17896441",
+    "content": "de95e8e7"
+  },
+  "/zh/docs/2.6.7/simulate-process-chaos-in-physical-nodes/-cf3": {
+    "__comp": "17896441",
+    "content": "21cd0dce"
+  },
+  "/zh/docs/2.6.7/simulate-redis-chaos-on-physical-nodes/-deb": {
+    "__comp": "17896441",
+    "content": "1a3bef14"
+  },
+  "/zh/docs/2.6.7/simulate-time-chaos-on-kubernetes/-46c": {
+    "__comp": "17896441",
+    "content": "07bb3d71"
+  },
+  "/zh/docs/2.6.7/simulate-time-chaos-on-physical-nodes/-d30": {
+    "__comp": "17896441",
+    "content": "2825eac8"
+  },
+  "/zh/docs/2.6.7/status-check-in-workflow/-8af": {
+    "__comp": "17896441",
+    "content": "271c98e3"
+  },
+  "/zh/docs/2.6.7/troubleshooting-guide/-ec1": {
+    "__comp": "17896441",
+    "content": "7e2c0d70"
+  },
+  "/zh/docs/2.6.7/uninstallation/-5fd": {
+    "__comp": "17896441",
+    "content": "a431e424"
+  },
+  "/zh/docs/2.6.7/upgrade-from-2.1-to-2.2/-915": {
+    "__comp": "17896441",
+    "content": "8ebf2b0f"
+  },
+  "/zh/docs/2.6.7/upgrade-to-2.0/-9d6": {
+    "__comp": "17896441",
+    "content": "7cf39584"
+  },
+  "/zh/docs/2.6.7/use-argo-to-orchestrate-chaos-experiments/-840": {
+    "__comp": "17896441",
+    "content": "8cb514a1"
+  },
+  "/zh/docs/2.6.7/use-grafana-data-source/-5da": {
+    "__comp": "17896441",
+    "content": "a3927fc0"
+  },
+  "/zh/docs/2.7.3/-70f": {
+    "__comp": "a7bd4aaa",
+    "__props": "0bf22077"
+  },
+  "/zh/docs/2.7.3/-e7e": {
+    "__comp": "a94703ab"
+  },
+  "/zh/docs/2.7.3/-1be": {
+    "__comp": "17896441",
+    "content": "8b38a2d8"
+  },
+  "/zh/docs/2.7.3/add-new-chaos-experiment-type/-f3d": {
+    "__comp": "17896441",
+    "content": "075d205c"
+  },
+  "/zh/docs/2.7.3/basic-features/-656": {
+    "__comp": "17896441",
+    "content": "07f9915a"
+  },
+  "/zh/docs/2.7.3/chaos-engineering-principles/-a57": {
+    "__comp": "17896441",
+    "content": "e9c7ad86"
+  },
+  "/zh/docs/2.7.3/chaosctl-tool/-596": {
+    "__comp": "17896441",
+    "content": "25a15049"
+  },
+  "/zh/docs/2.7.3/chaosd-overview/-6dd": {
+    "__comp": "17896441",
+    "content": "95de4b4b"
+  },
+  "/zh/docs/2.7.3/chaosd-search-recover/-b4b": {
+    "__comp": "17896441",
+    "content": "6d178ff2"
+  },
+  "/zh/docs/2.7.3/check-workflow-status/-7bf": {
+    "__comp": "17896441",
+    "content": "eb1aa4b6"
+  },
+  "/zh/docs/2.7.3/clean-up-chaos-experiments/-ff2": {
+    "__comp": "17896441",
+    "content": "0d9a4255"
+  },
+  "/zh/docs/2.7.3/configure-development-environment/-c87": {
+    "__comp": "17896441",
+    "content": "cbcce088"
+  },
+  "/zh/docs/2.7.3/configure-enabled-namespace/-0b1": {
+    "__comp": "17896441",
+    "content": "44ea76ba"
+  },
+  "/zh/docs/2.7.3/create-chaos-mesh-workflow/-d33": {
+    "__comp": "17896441",
+    "content": "13a11087"
+  },
+  "/zh/docs/2.7.3/define-chaos-experiment-scope/-a5a": {
+    "__comp": "17896441",
+    "content": "f53ce528"
+  },
+  "/zh/docs/2.7.3/define-scheduling-rules/-205": {
+    "__comp": "17896441",
+    "content": "b878172b"
+  },
+  "/zh/docs/2.7.3/define-workflow-scheduling-rules/-17b": {
+    "__comp": "17896441",
+    "content": "a5fec9e8"
+  },
+  "/zh/docs/2.7.3/developer-guide-overview/-f8d": {
+    "__comp": "17896441",
+    "content": "095befb2"
+  },
+  "/zh/docs/2.7.3/expose-dashboard-with-ingress/-e92": {
+    "__comp": "17896441",
+    "content": "6bd33523"
+  },
+  "/zh/docs/2.7.3/extend-chaos-daemon-interface/-ef4": {
+    "__comp": "17896441",
+    "content": "6c0c05de"
+  },
+  "/zh/docs/2.7.3/extend-chaosd/-d2f": {
+    "__comp": "17896441",
+    "content": "1dc3478c"
+  },
+  "/zh/docs/2.7.3/faqs/-460": {
+    "__comp": "17896441",
+    "content": "00e357dc"
+  },
+  "/zh/docs/2.7.3/gcp-authentication/-d5b": {
+    "__comp": "17896441",
+    "content": "1e52b99c"
+  },
+  "/zh/docs/2.7.3/glossary/-0a4": {
+    "__comp": "17896441",
+    "content": "73ae6b6c"
+  },
+  "/zh/docs/2.7.3/go-client/-e3d": {
+    "__comp": "17896441",
+    "content": "ac2d9b19"
+  },
+  "/zh/docs/2.7.3/inspect-chaos-experiments/-69f": {
+    "__comp": "17896441",
+    "content": "118fc4f0"
+  },
+  "/zh/docs/2.7.3/integrate-chaos-mesh-into-github-actions/-6dc": {
+    "__comp": "17896441",
+    "content": "68bc2c86"
+  },
+  "/zh/docs/2.7.3/java-client/-20b": {
+    "__comp": "17896441",
+    "content": "668b7002"
+  },
+  "/zh/docs/2.7.3/manage-user-permissions/-eb9": {
+    "__comp": "17896441",
+    "content": "2400ffb7"
+  },
+  "/zh/docs/2.7.3/multi-data-center-scenario/-9d1": {
+    "__comp": "17896441",
+    "content": "6467306e"
+  },
+  "/zh/docs/2.7.3/offline-installation/-49b": {
+    "__comp": "17896441",
+    "content": "86e18ec8"
+  },
+  "/zh/docs/2.7.3/persistence-dashboard/-a9e": {
+    "__comp": "17896441",
+    "content": "b2b46c64"
+  },
+  "/zh/docs/2.7.3/production-installation-using-helm/-437": {
+    "__comp": "17896441",
+    "content": "88831685"
+  },
+  "/zh/docs/2.7.3/python-client/-2e4": {
+    "__comp": "17896441",
+    "content": "9490b476"
+  },
+  "/zh/docs/2.7.3/quick-start/-027": {
+    "__comp": "17896441",
+    "content": "c73e9c13"
+  },
+  "/zh/docs/2.7.3/release-0.0.8/-2bc": {
+    "__comp": "17896441",
+    "content": "b7a8240f"
+  },
+  "/zh/docs/2.7.3/release-0.0.9/-52f": {
+    "__comp": "17896441",
+    "content": "9b1eb97c"
+  },
+  "/zh/docs/2.7.3/release-1.0.0/-168": {
+    "__comp": "17896441",
+    "content": "9b39eebd"
+  },
+  "/zh/docs/2.7.3/release-2.0.0/-eb6": {
+    "__comp": "17896441",
+    "content": "f6d00830"
+  },
+  "/zh/docs/2.7.3/release-2.5-tracking/-50f": {
+    "__comp": "17896441",
+    "content": "522f911b"
+  },
+  "/zh/docs/2.7.3/release-cycle/-f24": {
+    "__comp": "17896441",
+    "content": "468d067e"
+  },
+  "/zh/docs/2.7.3/remote-cluster-management/-aa8": {
+    "__comp": "17896441",
+    "content": "9808fb90"
+  },
+  "/zh/docs/2.7.3/run-a-chaos-experiment/-d12": {
+    "__comp": "17896441",
+    "content": "5caaafb8"
+  },
+  "/zh/docs/2.7.3/run-serial-or-parallel-experiments/-36b": {
+    "__comp": "17896441",
+    "content": "33267e6b"
+  },
+  "/zh/docs/2.7.3/rust-client/-1a0": {
+    "__comp": "17896441",
+    "content": "eaa3709c"
+  },
+  "/zh/docs/2.7.3/send-http-request-on-workflow/-714": {
+    "__comp": "17896441",
+    "content": "62fbf7bd"
+  },
+  "/zh/docs/2.7.3/simulate-aws-chaos/-e0e": {
+    "__comp": "17896441",
+    "content": "e9327ed8"
+  },
+  "/zh/docs/2.7.3/simulate-azure-chaos/-6fe": {
+    "__comp": "17896441",
+    "content": "ee0c39c3"
+  },
+  "/zh/docs/2.7.3/simulate-block-chaos-on-kubernetes/-384": {
+    "__comp": "17896441",
+    "content": "341ed363"
+  },
+  "/zh/docs/2.7.3/simulate-disk-pressure-in-physical-nodes/-0bf": {
+    "__comp": "17896441",
+    "content": "6a0ccbab"
+  },
+  "/zh/docs/2.7.3/simulate-dns-chaos-on-kubernetes/-f67": {
+    "__comp": "17896441",
+    "content": "c043977b"
+  },
+  "/zh/docs/2.7.3/simulate-file-chaos-in-physical-nodes/-5a9": {
+    "__comp": "17896441",
+    "content": "95ffe2fb"
+  },
+  "/zh/docs/2.7.3/simulate-gcp-chaos/-9bd": {
+    "__comp": "17896441",
+    "content": "d05caf38"
+  },
+  "/zh/docs/2.7.3/simulate-heavy-stress-in-physical-nodes/-4a1": {
+    "__comp": "17896441",
+    "content": "348220ca"
+  },
+  "/zh/docs/2.7.3/simulate-heavy-stress-on-kubernetes/-5b7": {
+    "__comp": "17896441",
+    "content": "658942db"
+  },
+  "/zh/docs/2.7.3/simulate-host-console-in-physical-nodes/-d17": {
+    "__comp": "17896441",
+    "content": "303b8391"
+  },
+  "/zh/docs/2.7.3/simulate-http-chaos-on-kubernetes/-3d8": {
+    "__comp": "17896441",
+    "content": "aafcc752"
+  },
+  "/zh/docs/2.7.3/simulate-io-chaos-on-kubernetes/-2f3": {
+    "__comp": "17896441",
+    "content": "885aea89"
+  },
+  "/zh/docs/2.7.3/simulate-jvm-application-chaos-in-physical-nodes/-e15": {
+    "__comp": "17896441",
+    "content": "e7e72640"
+  },
+  "/zh/docs/2.7.3/simulate-jvm-application-chaos/-10f": {
+    "__comp": "17896441",
+    "content": "d94583d6"
+  },
+  "/zh/docs/2.7.3/simulate-kernel-chaos-on-kubernetes/-0e7": {
+    "__comp": "17896441",
+    "content": "28788986"
+  },
+  "/zh/docs/2.7.3/simulate-network-chaos-in-physical-nodes/-13d": {
+    "__comp": "17896441",
+    "content": "a91f5e93"
+  },
+  "/zh/docs/2.7.3/simulate-network-chaos-on-kubernetes/-92e": {
+    "__comp": "17896441",
+    "content": "6a8488ab"
+  },
+  "/zh/docs/2.7.3/simulate-physical-machine-chaos/-10e": {
+    "__comp": "17896441",
+    "content": "70691cf9"
+  },
+  "/zh/docs/2.7.3/simulate-pod-chaos-on-kubernetes/-640": {
+    "__comp": "17896441",
+    "content": "425e4606"
+  },
+  "/zh/docs/2.7.3/simulate-process-chaos-in-physical-nodes/-8bf": {
+    "__comp": "17896441",
+    "content": "57c1653d"
+  },
+  "/zh/docs/2.7.3/simulate-redis-chaos-on-physical-nodes/-ca0": {
+    "__comp": "17896441",
+    "content": "c3509c60"
+  },
+  "/zh/docs/2.7.3/simulate-time-chaos-on-kubernetes/-863": {
+    "__comp": "17896441",
+    "content": "091722dd"
+  },
+  "/zh/docs/2.7.3/simulate-time-chaos-on-physical-nodes/-4b6": {
+    "__comp": "17896441",
+    "content": "ddd785ba"
+  },
+  "/zh/docs/2.7.3/status-check-in-workflow/-092": {
+    "__comp": "17896441",
+    "content": "77016ad7"
+  },
+  "/zh/docs/2.7.3/troubleshooting-guide/-237": {
+    "__comp": "17896441",
+    "content": "36ec4765"
+  },
+  "/zh/docs/2.7.3/uninstallation/-e4d": {
+    "__comp": "17896441",
+    "content": "0a29b8e7"
+  },
+  "/zh/docs/2.7.3/upgrade-from-2.1-to-2.2/-b7d": {
+    "__comp": "17896441",
+    "content": "f799c483"
+  },
+  "/zh/docs/2.7.3/upgrade-to-2.0/-3ef": {
+    "__comp": "17896441",
+    "content": "0d11c71d"
+  },
+  "/zh/docs/2.7.3/use-argo-to-orchestrate-chaos-experiments/-480": {
+    "__comp": "17896441",
+    "content": "0a24417f"
+  },
+  "/zh/docs/2.7.3/use-grafana-data-source/-415": {
+    "__comp": "17896441",
+    "content": "8ffd93e0"
+  },
+  "/zh/docs/next/-3a2": {
+    "__comp": "a7bd4aaa",
+    "__props": "c9e2098f"
+  },
+  "/zh/docs/next/-8a1": {
+    "__comp": "a94703ab"
+  },
+  "/zh/docs/next/-145": {
+    "__comp": "17896441",
+    "content": "fa448dfd"
+  },
+  "/zh/docs/next/add-new-chaos-experiment-type/-872": {
+    "__comp": "17896441",
+    "content": "c837b88b"
+  },
+  "/zh/docs/next/basic-features/-e19": {
+    "__comp": "17896441",
+    "content": "9a352cd7"
+  },
+  "/zh/docs/next/chaos-engineering-principles/-6c9": {
+    "__comp": "17896441",
+    "content": "02b28d6e"
+  },
+  "/zh/docs/next/chaosctl-tool/-e11": {
+    "__comp": "17896441",
+    "content": "34c54128"
+  },
+  "/zh/docs/next/chaosd-overview/-e76": {
+    "__comp": "17896441",
+    "content": "0a4fdf07"
+  },
+  "/zh/docs/next/chaosd-search-recover/-3c5": {
+    "__comp": "17896441",
+    "content": "970736db"
+  },
+  "/zh/docs/next/check-workflow-status/-378": {
+    "__comp": "17896441",
+    "content": "8439846b"
+  },
+  "/zh/docs/next/clean-up-chaos-experiments/-316": {
+    "__comp": "17896441",
+    "content": "f6e0d55d"
+  },
+  "/zh/docs/next/configure-development-environment/-824": {
+    "__comp": "17896441",
+    "content": "aebdce5e"
+  },
+  "/zh/docs/next/configure-enabled-namespace/-082": {
+    "__comp": "17896441",
+    "content": "01f2f317"
+  },
+  "/zh/docs/next/create-chaos-mesh-workflow/-f75": {
+    "__comp": "17896441",
+    "content": "f9a19906"
+  },
+  "/zh/docs/next/define-chaos-experiment-scope/-879": {
+    "__comp": "17896441",
+    "content": "340d9b9b"
+  },
+  "/zh/docs/next/define-scheduling-rules/-49c": {
+    "__comp": "17896441",
+    "content": "872c220a"
+  },
+  "/zh/docs/next/define-workflow-scheduling-rules/-849": {
+    "__comp": "17896441",
+    "content": "4eaba250"
+  },
+  "/zh/docs/next/developer-guide-overview/-e65": {
+    "__comp": "17896441",
+    "content": "6a3a9c90"
+  },
+  "/zh/docs/next/expose-dashboard-with-ingress/-0ca": {
+    "__comp": "17896441",
+    "content": "43aabc11"
+  },
+  "/zh/docs/next/extend-chaos-daemon-interface/-a38": {
+    "__comp": "17896441",
+    "content": "f5ba85b2"
+  },
+  "/zh/docs/next/extend-chaosd/-1bb": {
+    "__comp": "17896441",
+    "content": "c0d42e9b"
+  },
+  "/zh/docs/next/faqs/-c13": {
+    "__comp": "17896441",
+    "content": "32d3c5ee"
+  },
+  "/zh/docs/next/gcp-authentication/-b68": {
+    "__comp": "17896441",
+    "content": "4e7b0b7b"
+  },
+  "/zh/docs/next/glossary/-25b": {
+    "__comp": "17896441",
+    "content": "76b6fdcb"
+  },
+  "/zh/docs/next/go-client/-92e": {
+    "__comp": "17896441",
+    "content": "5b6c70b3"
+  },
+  "/zh/docs/next/inspect-chaos-experiments/-5e8": {
+    "__comp": "17896441",
+    "content": "fdb168c3"
+  },
+  "/zh/docs/next/integrate-chaos-mesh-into-github-actions/-c90": {
+    "__comp": "17896441",
+    "content": "7c24add7"
+  },
+  "/zh/docs/next/java-client/-f75": {
+    "__comp": "17896441",
+    "content": "ef625bdf"
+  },
+  "/zh/docs/next/manage-user-permissions/-91e": {
+    "__comp": "17896441",
+    "content": "964f77bb"
+  },
+  "/zh/docs/next/multi-data-center-scenario/-cec": {
+    "__comp": "17896441",
+    "content": "07fe2a42"
+  },
+  "/zh/docs/next/offline-installation/-27d": {
+    "__comp": "17896441",
+    "content": "25749425"
+  },
+  "/zh/docs/next/persistence-dashboard/-d73": {
+    "__comp": "17896441",
+    "content": "d4b27449"
+  },
+  "/zh/docs/next/production-installation-using-helm/-12a": {
+    "__comp": "17896441",
+    "content": "4e9b4dc8"
+  },
+  "/zh/docs/next/python-client/-fa7": {
+    "__comp": "17896441",
+    "content": "32e0b033"
+  },
+  "/zh/docs/next/quick-start/-d72": {
+    "__comp": "17896441",
+    "content": "c23e2a90"
+  },
+  "/zh/docs/next/release-0.0.8/-59c": {
+    "__comp": "17896441",
+    "content": "f8e29a20"
+  },
+  "/zh/docs/next/release-0.0.9/-d06": {
+    "__comp": "17896441",
+    "content": "ea56cde0"
+  },
+  "/zh/docs/next/release-1.0.0/-616": {
+    "__comp": "17896441",
+    "content": "78beb424"
+  },
+  "/zh/docs/next/release-2.0.0/-f28": {
+    "__comp": "17896441",
+    "content": "bbee1650"
+  },
+  "/zh/docs/next/release-2.5-tracking/-012": {
+    "__comp": "17896441",
+    "content": "37220d5e"
+  },
+  "/zh/docs/next/release-cycle/-75e": {
+    "__comp": "17896441",
+    "content": "8b8c00ac"
+  },
+  "/zh/docs/next/remote-cluster-management/-1e0": {
+    "__comp": "17896441",
+    "content": "0e474235"
+  },
+  "/zh/docs/next/run-a-chaos-experiment/-24f": {
+    "__comp": "17896441",
+    "content": "f8f2ef62"
+  },
+  "/zh/docs/next/run-serial-or-parallel-experiments/-a36": {
+    "__comp": "17896441",
+    "content": "cf90ce1a"
+  },
+  "/zh/docs/next/rust-client/-d4c": {
+    "__comp": "17896441",
+    "content": "8160bdb5"
+  },
+  "/zh/docs/next/send-http-request-on-workflow/-4f2": {
+    "__comp": "17896441",
+    "content": "576e8a45"
+  },
+  "/zh/docs/next/simulate-aws-chaos/-dfd": {
+    "__comp": "17896441",
+    "content": "17d8a409"
+  },
+  "/zh/docs/next/simulate-azure-chaos/-14b": {
+    "__comp": "17896441",
+    "content": "79fa6072"
+  },
+  "/zh/docs/next/simulate-block-chaos-on-kubernetes/-f6d": {
+    "__comp": "17896441",
+    "content": "d9964d08"
+  },
+  "/zh/docs/next/simulate-disk-pressure-in-physical-nodes/-1e8": {
+    "__comp": "17896441",
+    "content": "475c4110"
+  },
+  "/zh/docs/next/simulate-dns-chaos-on-kubernetes/-d26": {
+    "__comp": "17896441",
+    "content": "b469fa27"
+  },
+  "/zh/docs/next/simulate-file-chaos-in-physical-nodes/-e56": {
+    "__comp": "17896441",
+    "content": "b8f539d1"
+  },
+  "/zh/docs/next/simulate-gcp-chaos/-b9d": {
+    "__comp": "17896441",
+    "content": "082e2a3a"
+  },
+  "/zh/docs/next/simulate-heavy-stress-in-physical-nodes/-ad8": {
+    "__comp": "17896441",
+    "content": "c3b9dde1"
+  },
+  "/zh/docs/next/simulate-heavy-stress-on-kubernetes/-2fc": {
+    "__comp": "17896441",
+    "content": "2e5b2929"
+  },
+  "/zh/docs/next/simulate-host-console-in-physical-nodes/-0cc": {
+    "__comp": "17896441",
+    "content": "2e19725a"
+  },
+  "/zh/docs/next/simulate-http-chaos-on-kubernetes/-f38": {
+    "__comp": "17896441",
+    "content": "dd02a6d6"
+  },
+  "/zh/docs/next/simulate-io-chaos-on-kubernetes/-84f": {
+    "__comp": "17896441",
+    "content": "6b9081a8"
+  },
+  "/zh/docs/next/simulate-jvm-application-chaos-in-physical-nodes/-119": {
+    "__comp": "17896441",
+    "content": "190c4961"
+  },
+  "/zh/docs/next/simulate-jvm-application-chaos/-1e5": {
+    "__comp": "17896441",
+    "content": "06d9ea2e"
+  },
+  "/zh/docs/next/simulate-kernel-chaos-on-kubernetes/-a48": {
+    "__comp": "17896441",
+    "content": "4f736b18"
+  },
+  "/zh/docs/next/simulate-network-chaos-in-physical-nodes/-9b6": {
+    "__comp": "17896441",
+    "content": "dbe2daa0"
+  },
+  "/zh/docs/next/simulate-network-chaos-on-kubernetes/-4d0": {
+    "__comp": "17896441",
+    "content": "8f7756f6"
+  },
+  "/zh/docs/next/simulate-physical-machine-chaos/-565": {
+    "__comp": "17896441",
+    "content": "4fd5e787"
+  },
+  "/zh/docs/next/simulate-pod-chaos-on-kubernetes/-90e": {
+    "__comp": "17896441",
+    "content": "9f8216d2"
+  },
+  "/zh/docs/next/simulate-process-chaos-in-physical-nodes/-df4": {
+    "__comp": "17896441",
+    "content": "43014bec"
+  },
+  "/zh/docs/next/simulate-redis-chaos-on-physical-nodes/-031": {
+    "__comp": "17896441",
+    "content": "f931d0bb"
+  },
+  "/zh/docs/next/simulate-time-chaos-on-kubernetes/-863": {
+    "__comp": "17896441",
+    "content": "49167b67"
+  },
+  "/zh/docs/next/simulate-time-chaos-on-physical-nodes/-7e0": {
+    "__comp": "17896441",
+    "content": "49b24d94"
+  },
+  "/zh/docs/next/status-check-in-workflow/-cd0": {
+    "__comp": "17896441",
+    "content": "94f726d1"
+  },
+  "/zh/docs/next/troubleshooting-guide/-4bb": {
+    "__comp": "17896441",
+    "content": "e505f475"
+  },
+  "/zh/docs/next/uninstallation/-f22": {
+    "__comp": "17896441",
+    "content": "5eea994e"
+  },
+  "/zh/docs/next/upgrade-from-2.1-to-2.2/-3d9": {
+    "__comp": "17896441",
+    "content": "47aaf1a1"
+  },
+  "/zh/docs/next/upgrade-to-2.0/-9cd": {
+    "__comp": "17896441",
+    "content": "150f7221"
+  },
+  "/zh/docs/next/use-argo-to-orchestrate-chaos-experiments/-1da": {
+    "__comp": "17896441",
+    "content": "7434d4ea"
+  },
+  "/zh/docs/next/use-grafana-data-source/-c1c": {
+    "__comp": "17896441",
+    "content": "074eda76"
+  },
+  "/zh/docs/-788": {
+    "__comp": "a7bd4aaa",
+    "__props": "08595e39"
+  },
+  "/zh/docs/-12c": {
+    "__comp": "a94703ab"
+  },
+  "/zh/docs/-709": {
+    "__comp": "17896441",
+    "content": "595bdde5"
+  },
+  "/zh/docs/add-new-chaos-experiment-type/-861": {
+    "__comp": "17896441",
+    "content": "cfb9effd"
+  },
+  "/zh/docs/basic-features/-59e": {
+    "__comp": "17896441",
+    "content": "c7374bb3"
+  },
+  "/zh/docs/chaos-engineering-principles/-9c0": {
+    "__comp": "17896441",
+    "content": "84b6b828"
+  },
+  "/zh/docs/chaosctl-tool/-bab": {
+    "__comp": "17896441",
+    "content": "a5bcdb99"
+  },
+  "/zh/docs/chaosd-overview/-1b5": {
+    "__comp": "17896441",
+    "content": "2a1f4234"
+  },
+  "/zh/docs/chaosd-search-recover/-1f2": {
+    "__comp": "17896441",
+    "content": "72685d02"
+  },
+  "/zh/docs/check-workflow-status/-deb": {
+    "__comp": "17896441",
+    "content": "bd9e8591"
+  },
+  "/zh/docs/clean-up-chaos-experiments/-28a": {
+    "__comp": "17896441",
+    "content": "7d8b6fd7"
+  },
+  "/zh/docs/configure-development-environment/-d0a": {
+    "__comp": "17896441",
+    "content": "5b99cc6d"
+  },
+  "/zh/docs/configure-enabled-namespace/-b26": {
+    "__comp": "17896441",
+    "content": "548592d7"
+  },
+  "/zh/docs/create-chaos-mesh-workflow/-359": {
+    "__comp": "17896441",
+    "content": "1bc6f1e2"
+  },
+  "/zh/docs/define-chaos-experiment-scope/-2ab": {
+    "__comp": "17896441",
+    "content": "d229e7ba"
+  },
+  "/zh/docs/define-scheduling-rules/-26f": {
+    "__comp": "17896441",
+    "content": "b84bcabe"
+  },
+  "/zh/docs/define-workflow-scheduling-rules/-87a": {
+    "__comp": "17896441",
+    "content": "87063e37"
+  },
+  "/zh/docs/developer-guide-overview/-370": {
+    "__comp": "17896441",
+    "content": "c70b38c6"
+  },
+  "/zh/docs/expose-dashboard-with-ingress/-2dc": {
+    "__comp": "17896441",
+    "content": "e198bf96"
+  },
+  "/zh/docs/extend-chaos-daemon-interface/-546": {
+    "__comp": "17896441",
+    "content": "5965ce42"
+  },
+  "/zh/docs/extend-chaosd/-692": {
+    "__comp": "17896441",
+    "content": "1706fd9d"
+  },
+  "/zh/docs/faqs/-93a": {
+    "__comp": "17896441",
+    "content": "c85e3f8e"
+  },
+  "/zh/docs/gcp-authentication/-fa5": {
+    "__comp": "17896441",
+    "content": "14811796"
+  },
+  "/zh/docs/glossary/-137": {
+    "__comp": "17896441",
+    "content": "608ba2cb"
+  },
+  "/zh/docs/go-client/-37d": {
+    "__comp": "17896441",
+    "content": "c43783c3"
+  },
+  "/zh/docs/inspect-chaos-experiments/-5d0": {
+    "__comp": "17896441",
+    "content": "86cc0668"
+  },
+  "/zh/docs/integrate-chaos-mesh-into-github-actions/-2f5": {
+    "__comp": "17896441",
+    "content": "a4fe46f1"
+  },
+  "/zh/docs/java-client/-bdb": {
+    "__comp": "17896441",
+    "content": "e3e90ec7"
+  },
+  "/zh/docs/manage-user-permissions/-ee0": {
+    "__comp": "17896441",
+    "content": "0b9d1b1e"
+  },
+  "/zh/docs/multi-data-center-scenario/-7d7": {
+    "__comp": "17896441",
+    "content": "f6e1beac"
+  },
+  "/zh/docs/offline-installation/-e14": {
+    "__comp": "17896441",
+    "content": "cac1a88b"
+  },
+  "/zh/docs/persistence-dashboard/-ae1": {
+    "__comp": "17896441",
+    "content": "0d6b4257"
+  },
+  "/zh/docs/production-installation-using-helm/-a74": {
+    "__comp": "17896441",
+    "content": "13a5bc68"
+  },
+  "/zh/docs/python-client/-e5c": {
+    "__comp": "17896441",
+    "content": "b8f64fd2"
+  },
+  "/zh/docs/quick-start/-198": {
+    "__comp": "17896441",
+    "content": "f600c3b5"
+  },
+  "/zh/docs/release-0.0.8/-bb5": {
+    "__comp": "17896441",
+    "content": "79a05ff8"
+  },
+  "/zh/docs/release-0.0.9/-5f5": {
+    "__comp": "17896441",
+    "content": "a4abe2f7"
+  },
+  "/zh/docs/release-1.0.0/-9af": {
+    "__comp": "17896441",
+    "content": "0fcbb61b"
+  },
+  "/zh/docs/release-2.0.0/-c41": {
+    "__comp": "17896441",
+    "content": "6a83fde7"
+  },
+  "/zh/docs/release-2.5-tracking/-fd1": {
+    "__comp": "17896441",
+    "content": "5533b2dc"
+  },
+  "/zh/docs/release-cycle/-dc8": {
+    "__comp": "17896441",
+    "content": "675fb48e"
+  },
+  "/zh/docs/remote-cluster-management/-6ab": {
+    "__comp": "17896441",
+    "content": "88b80674"
+  },
+  "/zh/docs/run-a-chaos-experiment/-ab2": {
+    "__comp": "17896441",
+    "content": "0cdab8ff"
+  },
+  "/zh/docs/run-serial-or-parallel-experiments/-1f1": {
+    "__comp": "17896441",
+    "content": "37e3639f"
+  },
+  "/zh/docs/rust-client/-5a9": {
+    "__comp": "17896441",
+    "content": "30771b09"
+  },
+  "/zh/docs/send-http-request-on-workflow/-302": {
+    "__comp": "17896441",
+    "content": "6cd29925"
+  },
+  "/zh/docs/simulate-aws-chaos/-250": {
+    "__comp": "17896441",
+    "content": "4369ebfa"
+  },
+  "/zh/docs/simulate-azure-chaos/-9b7": {
+    "__comp": "17896441",
+    "content": "190af197"
+  },
+  "/zh/docs/simulate-block-chaos-on-kubernetes/-b27": {
+    "__comp": "17896441",
+    "content": "c5c11213"
+  },
+  "/zh/docs/simulate-disk-pressure-in-physical-nodes/-6b1": {
+    "__comp": "17896441",
+    "content": "8965dfc9"
+  },
+  "/zh/docs/simulate-dns-chaos-on-kubernetes/-3a9": {
+    "__comp": "17896441",
+    "content": "fece325b"
+  },
+  "/zh/docs/simulate-file-chaos-in-physical-nodes/-1c9": {
+    "__comp": "17896441",
+    "content": "11e26a8b"
+  },
+  "/zh/docs/simulate-gcp-chaos/-16a": {
+    "__comp": "17896441",
+    "content": "93a17e03"
+  },
+  "/zh/docs/simulate-heavy-stress-in-physical-nodes/-948": {
+    "__comp": "17896441",
+    "content": "3b4e1634"
+  },
+  "/zh/docs/simulate-heavy-stress-on-kubernetes/-e34": {
+    "__comp": "17896441",
+    "content": "992245ae"
+  },
+  "/zh/docs/simulate-host-console-in-physical-nodes/-125": {
+    "__comp": "17896441",
+    "content": "ef868478"
+  },
+  "/zh/docs/simulate-http-chaos-on-kubernetes/-b35": {
+    "__comp": "17896441",
+    "content": "4280ec64"
+  },
+  "/zh/docs/simulate-io-chaos-on-kubernetes/-781": {
+    "__comp": "17896441",
+    "content": "b7c3ca2f"
+  },
+  "/zh/docs/simulate-jvm-application-chaos-in-physical-nodes/-507": {
+    "__comp": "17896441",
+    "content": "caed0a3a"
+  },
+  "/zh/docs/simulate-jvm-application-chaos/-87a": {
+    "__comp": "17896441",
+    "content": "fe9e0cb8"
+  },
+  "/zh/docs/simulate-kernel-chaos-on-kubernetes/-e2a": {
+    "__comp": "17896441",
+    "content": "eee7c926"
+  },
+  "/zh/docs/simulate-network-chaos-in-physical-nodes/-63a": {
+    "__comp": "17896441",
+    "content": "1a58ac55"
+  },
+  "/zh/docs/simulate-network-chaos-on-kubernetes/-e15": {
+    "__comp": "17896441",
+    "content": "f5c8c56a"
+  },
+  "/zh/docs/simulate-physical-machine-chaos/-518": {
+    "__comp": "17896441",
+    "content": "6a92be34"
+  },
+  "/zh/docs/simulate-pod-chaos-on-kubernetes/-01d": {
+    "__comp": "17896441",
+    "content": "8503e174"
+  },
+  "/zh/docs/simulate-process-chaos-in-physical-nodes/-5ef": {
+    "__comp": "17896441",
+    "content": "c09733de"
+  },
+  "/zh/docs/simulate-redis-chaos-on-physical-nodes/-ba5": {
+    "__comp": "17896441",
+    "content": "958a718d"
+  },
+  "/zh/docs/simulate-time-chaos-on-kubernetes/-a26": {
+    "__comp": "17896441",
+    "content": "332e0e9b"
+  },
+  "/zh/docs/simulate-time-chaos-on-physical-nodes/-0d3": {
+    "__comp": "17896441",
+    "content": "f5a0fe57"
+  },
+  "/zh/docs/status-check-in-workflow/-7f3": {
+    "__comp": "17896441",
+    "content": "d570a5f2"
+  },
+  "/zh/docs/troubleshooting-guide/-589": {
+    "__comp": "17896441",
+    "content": "14278b7c"
+  },
+  "/zh/docs/uninstallation/-8bc": {
+    "__comp": "17896441",
+    "content": "d2c2f8e4"
+  },
+  "/zh/docs/upgrade-from-2.1-to-2.2/-88a": {
+    "__comp": "17896441",
+    "content": "d0dba3a0"
+  },
+  "/zh/docs/upgrade-to-2.0/-25d": {
+    "__comp": "17896441",
+    "content": "b14d01cc"
+  },
+  "/zh/docs/use-argo-to-orchestrate-chaos-experiments/-573": {
+    "__comp": "17896441",
+    "content": "788954b5"
+  },
+  "/zh/docs/use-grafana-data-source/-3c2": {
+    "__comp": "17896441",
+    "content": "36aeaaca"
+  },
+  "/zh/-9c6": {
+    "__comp": "c4f5d8e4",
+    "__context": {
+      "plugin": "a7456010"
+    },
+    "config": "5e9f5e1a"
+  }
+}
